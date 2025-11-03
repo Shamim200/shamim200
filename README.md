@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Web Development Project**
 
-- 💬 Ask me about **Next.Js, React, Express.Js**
+- 💬 Ask me about: **Next.Js, React, Express.Js**
 
-- 📫 How to reach me **s40644812@gmail.com**
+- 📫 How to reach me: **s40644812@gmail.com**
 
-- ⚡ Fun fact **I love coding😊**
+- ⚡ Fun fact: **I love coding😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
