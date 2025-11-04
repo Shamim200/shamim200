@@ -31,9 +31,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=shamim200&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shamim200&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shamim200&show_icons=true&locale=en&layout=compact" alt="shamim200" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamim200&show_icons=true&locale=en" alt="shamim200" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamim200&" alt="shamim200" /></p>
