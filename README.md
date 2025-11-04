@@ -61,7 +61,8 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" height="40" alt="NextJs" />
 <img width="12"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" width="40" alt="react router logo" />
-
+<img width="12"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="40" alt="jest logo" />
 </div>
 
 
