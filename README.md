@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Next.Js<br><br>🌱 I’m currently learning Python<br><br>👯 I’m looking to collaborate on React & Next.Js Project<br><br>💬 Ask me about: Next.Js, React, Express.Js, Mongo<br><br>📫 How to reach me: s40644812@gmail.com<br><br>⚡ Fun fact: Every time, I learn somethin new😊.</p>
+<p align="left">🔭 I’m currently working on Next.Js<br><br>🌱 I’m currently learning Python<br><br>👯 I’m looking to collaborate on React & Next.Js Project<br><br>💬 Ask me about: Next.Js, React, Express.Js, Mongo<br><br>📫 How to reach me: s40644812@gmail.com<br><br>⚡ Fun fact: Every day, I learn somethin new😊.</p>
 
 ###
 
