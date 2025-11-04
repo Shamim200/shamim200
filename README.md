@@ -7,6 +7,7 @@
 <p align="left">Hi there, I'm Shamim 👋. I'm a Full-Stack Web Developer 💻.</p>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamim200&label=Profile%20views&color=0e75b6&style=flat" alt="shamim200" /> </p>
 
 <h2 align="left"></h2>
 
