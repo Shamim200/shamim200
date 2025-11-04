@@ -50,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
-<img src="https://streak-stats.demolab.com?user=shamim200&theme=dark&hide_border=true" alt="shamim200's GitHub Stats" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamim200&label=Profile%20views&color=0e75b6&style=flat" alt="shamim200" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamim200" alt="shamim200" /></a> </p>
 
 ###
