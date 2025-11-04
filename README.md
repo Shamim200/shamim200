@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Shamim. I'm a web and mobile developer.</p>
+<p align="left">My name is Shamim 🫱. I'm a Web Developer 💻.</p>
 
 ###
 
