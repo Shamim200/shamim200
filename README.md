@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+
 
 <h1 align="center">Welcome To My Profile ☕.</h1>
 
@@ -22,6 +20,10 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/md.shamim.703180) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shamim-shamim-27887223a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:s40644812@gmail.com) 
 
 # 💻 Tech Stack:
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+</div>
 
 
 # 📊 GitHub Stats:
