@@ -57,7 +57,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamim200&show_icons=true&locale=en" alt="shamim200" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamim200&" alt="shamim200" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shamim200&" alt="shamim200" /></p> -->
+
+
 </div>
 
 ###
