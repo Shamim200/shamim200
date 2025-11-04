@@ -50,4 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </div>
 
+<img src="https://streak-stats.demolab.com?user=shamim200&theme=dark&hide_border=true" alt="shamim200's GitHub Stats" />
+
 ###
